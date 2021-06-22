@@ -1,3 +1,3 @@
 # Automated_Banker_Cpp
 
-An automated banker who deals with different types of bank accounts transactions.
+An automated banker who deals with different types of bank account transactions.
